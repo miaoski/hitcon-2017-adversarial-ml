@@ -1,0 +1,11 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+traffic-signs-data
+./lenet.data-00000-of-00001
+./lenet.index
+./lenet.meta
+traffic-signs-data.zip
